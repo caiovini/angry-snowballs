@@ -1,0 +1,5 @@
+cffi==1.14.0
+greenlet==0.4.13
+pygame==2.0.0
+pymunk==6.0.0
+readline==6.2.4.1
