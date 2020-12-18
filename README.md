@@ -18,7 +18,7 @@ python game.py
 
 ## Game
 
-Click and control the sling by clicking and moving the pointer<br/>
+Click and control the sling by moving the pointer<br/>
 release the mouse and the ball is thrown.<br/>
 
 The goal is to strike all beams and columns.<br/>
