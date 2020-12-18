@@ -10,8 +10,6 @@ from assets import (Background,
                     Ball,
                     Sling1,
                     Sling2,
-                    Beam,
-                    Column,
                     fetch_columns_and_beams)
 
 from physics import (post_solve_ground_ball,
