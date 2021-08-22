@@ -26,3 +26,9 @@ The goal is to strike all beams and columns.<br/>
 ## Assets
 
 All assets for this game can be found [here!](https://www.gamedevmarket.net/asset/animated-snowball-game-projectile/), [here!](https://www.gameart2d.com/winter-platformer-game-tileset.html) and [here!](https://pymunk-tutorial.readthedocs.io/en/latest/bird/bird.html)
+
+
+## Try it out
+
+
+replit [here](https://replit.com/@CaioVinicius18/bomberman?v=1)
