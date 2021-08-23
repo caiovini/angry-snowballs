@@ -31,4 +31,4 @@ All assets for this game can be found [here!](https://www.gamedevmarket.net/asse
 ## Try it out
 
 
-replit [here](https://replit.com/@CaioVinicius18/bomberman?v=1)
+replit [here](https://replit.com/@CaioVinicius18/angry-snowballs?v=1)
